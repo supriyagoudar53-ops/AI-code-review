@@ -1,0 +1,4 @@
+flask==3.0.3
+python-dotenv==1.0.1
+# optional, only if AI_PROVIDER=openai:
+# openai>=1.40.0
